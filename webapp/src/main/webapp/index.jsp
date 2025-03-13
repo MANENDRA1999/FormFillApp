@@ -14,7 +14,7 @@
     <br>
 
     <label for="Fathername"><b>FatherName</b></label>
-    <input type="text" placeholder="Enter father name" name="Fthername" id="Fathername" required>
+    <input type="text" placeholder="Enter your father name" name="Fthername" id="Fathername" required>
     <br>
 
     <label for="psw"><b>Password</b></label>
